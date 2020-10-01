@@ -1,6 +1,6 @@
 # Exemple d'un projet en React JS
 
-On possède une base de donnée contenant des films, l'objectif est d'afficher l'ensemble de ces films sous forme de carte.
+On possède une base de données contenant des films, l'objectif est d'afficher l'ensemble de ces films sous forme de mini carte.
 
 ## Fonctionnalités
 
